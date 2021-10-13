@@ -12,13 +12,13 @@ The purpose of this project is to analyze data from credit loan applicants to se
 
 This method has a 65% accuracy
 
-![Getting Started](Module-17-Challenge-Resources/Resources/RandomOversampling.png)
+![Getting Started](Module-17-Challenge/Resources/RandomOversampling.png)
 
 - SMOTE Oversampling results:
 
 This method has a 64% balanced accuracy
 
-![Getting Started](Module-17-Challenge-Resources/Resources/SMOTEOversampling.png)
+![Getting Started](Module-17-Challenge/Resources/SMOTEOversampling.png)
 
 ### Undersampling.
 
@@ -26,7 +26,7 @@ This method has a 64% balanced accuracy
 
 This method has a 51% balanced accuracy
 
-![Getting Started](Module-17-Challenge-Resources/Resources/ClusterCentroids.png)
+![Getting Started](Module-17-Challenge/Resources/ClusterCentroids.png)
 
 ### Combination(over and undersampling)
 
@@ -34,7 +34,7 @@ This method has a 51% balanced accuracy
 
 This method has a 63% balanced accuracy
 
-![Getting Started](Module-17-Challenge-Resources/Resources/SMOTEENN.png)
+![Getting Started](Module-17-Challenge/Resources/SMOTEENN.png)
 
 ### Ensemble Learners
 
@@ -42,13 +42,13 @@ This method has a 63% balanced accuracy
 
 This method has a 78% balanced accuracy
 
-![Getting Started](Module-17-Challenge-Resources/Resources/BRF.png)
+![Getting Started](Module-17-Challenge/Resources/BRF.png)
 
 - Easy Ensemble AdaBoost Classifier results:
 
 This method has a 91% balanced accuracy
 
-![Getting Started](Module-17-Challenge-Resources/Resources/EEC.png)
+![Getting Started](Module-17-Challenge/Resources/EEC.png)
 
 ## Summary.
 
