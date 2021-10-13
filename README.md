@@ -48,7 +48,7 @@ This method has a 78% balanced accuracy
 
 This method has a 91% balanced accuracy
 
-![Getting Started](Module-17-Challenge/Resources/EEC.png)
+![Getting Started](Module-17-Challenge/Resources/eec.png)
 
 ## Summary.
 
